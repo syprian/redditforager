@@ -8,4 +8,4 @@ Reddit Forager acts as a personal tool to scrappe and export comments from any d
 * Then open: ```http://localhost:8080/redditforager.html```
 * Then copy paste the link of the target discussion board on Reddit in the Reddit Forager
 
-<img src="1f41c.gif" alt="Demo">
+![Demo](https://raw.githubusercontent.com/syprian/redditforager/main/1f41c.gif)
